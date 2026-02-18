@@ -8,12 +8,29 @@ https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS
 Adidas operates in a highly competitive and dynamic market. Fluctuations in sales performance, regional demand differences, product category and consumer preferences can significantly impact overall profitability and growth. The challenge is to analyze Adidas sales and performance data to identify key trends, revenue drivers and growth opportunities.
 
 ## Objectives
-1. To identify the top 5 states with the highest profit.
-2.To analyze how different sales method impact overall sales performance. 
-3.To identify the products the consumers prefer the most.
-4.To identify the regions that generate the highest profits.
-5.To identify the retailers with the highest profit.
-6.To examine the quarterly sales trend .
+
+1.To analyze how different sales method impact overall sales performance. 
+
+2.To identify the products the consumers prefer the most.
+
+3.To identify the regions that generate the highest profits.
+
+4.To identify the retailers with the highest profit.
+
+5.To examine the quarterly sales trend .
+
+<img width="1184" height="502" alt="addidas" src="https://github.com/user-attachments/assets/41fd99e7-0b79-42da-961e-aabe9396b6b7" />
+
+
+# DATA SOURCE & DATA CLEANING PROCESS
+The Adidas dataset was gotten from Kaggle.com. The dataset contains 9648 rows and 11 columns. We  checked for duplicates but there were no duplicates. We  also checked for blank cells but there were no blank cells. In the process of transforming the dataset we created three calculated columns to help us with the analysis. The title of the columns are:
+	Total Revenue = Price per Unit Column multiplied by Unit Sold Column
+	Total Cost = Cost per Unit Column multiplied by Unit Sold Column 
+	Profit = Subtraction of Total Cost Column  from  Total Revenue Column
+So in total the dataset has 14 columns and 9648 rows.
+
+
+
 
 
 
