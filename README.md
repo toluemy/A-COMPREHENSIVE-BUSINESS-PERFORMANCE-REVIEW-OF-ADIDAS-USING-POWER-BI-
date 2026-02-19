@@ -49,7 +49,7 @@ INSIGHTS: Online sales being the top contributor suggests:
 Strong digital presence
 More customers prefer online shopping
 
-
+![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/b98a655d716402bfd930365b808d83aefccfd1d9/profitproduct.png)
 
 
 
