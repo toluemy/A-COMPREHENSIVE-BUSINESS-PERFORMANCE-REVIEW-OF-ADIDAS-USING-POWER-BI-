@@ -86,7 +86,9 @@ The Quarterly chart shows profit performance across the four quarters:
 2. It increases steadily through Q2 with $11.9M in profit.
 3. It peaks in Q3 at approximately $14.1M, the highest point in the year.
    profit then declines in Q4 to  $11.5M.
+   
 INSIGHTS
+
 Strong growth occurs from Q1 to Q3, indicating favorable business conditions, successful campaigns, or high customer demand.
 Q3 is the peak revenue quarter, suggesting seasonality or concentrated sales activity.
 The noticeable drop in Q4 may indicate reduced demand, lower sales activity or budget closures.
