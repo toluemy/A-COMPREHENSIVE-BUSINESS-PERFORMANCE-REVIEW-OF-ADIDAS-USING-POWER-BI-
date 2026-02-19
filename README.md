@@ -54,6 +54,7 @@ More customers prefer online shopping
 ## ANALYSIS
 
 The Total Profit by Product chart shows that Men’s Street Footwear generates the highest profit among all products, followed closely by Women’s Apparel and Men’s Athletic Footwear.On the lower end, Women’s Athletic Footwear and Men’s Apparel generate the least profit in comparison to the top products.
+
 INSIGHTS
  Men’s Street Footwear is the strongest-performing category, indicating high demand for men’s shoes.Women’s product categories show mixed performance: women’s apparel performs strongly, while women’s athletic footwear underperform
 
