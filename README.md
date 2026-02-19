@@ -39,7 +39,6 @@ Below are the analytical questions:
 4. Which retailer contributed the most to the overall profit?
 5. What was the quarterly sales trend?
 
-![image Alt](image_url).Replace
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/ba0e9ca726ad28f971799dd8c7267be1c89b2bbd/sales%20method.png)
 
 
