@@ -58,6 +58,8 @@ The Total Profit by Product chart shows that Men’s Street Footwear generates t
 INSIGHT
 Men’s Street Footwear is the strongest-performing category, indicating high demand for men’s shoes.Women’s product categories show mixed performance: women’s apparel performs strongly, while women’s athletic footwear underperform
 
+![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/b4a5606bbb63e264e33d54b5eb0e5760328b0972/proregion.png)
+
 
 
 
