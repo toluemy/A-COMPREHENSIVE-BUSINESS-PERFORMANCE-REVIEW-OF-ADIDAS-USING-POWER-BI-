@@ -41,6 +41,17 @@ Below are the analytical questions:
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/ba0e9ca726ad28f971799dd8c7267be1c89b2bbd/sales%20method.png)
 
+# ANALYSIS
+
+The Total Profit by Sales Method chart reveals that the Online sales generated the highest profit ($19.55M) followed by Outlet sales ($14.91M), and In-store sales ($12.76M).This indicates that Adidas performs strongly across all channels, but online is clearly the leading sales method.
+
+INSIGHTS: Online sales being the top contributor suggests:
+Strong digital presence
+More customers prefer online shopping
+
+
+
+
 
 
 
