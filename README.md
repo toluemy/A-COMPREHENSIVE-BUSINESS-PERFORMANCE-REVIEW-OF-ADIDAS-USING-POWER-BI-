@@ -1,4 +1,4 @@
-<img width="7330" height="256" alt="image" src="https://github.com/user-attachments/assets/c6c3a65f-861f-4131-8d7a-f857f48d50d8" /><img width="1321" height="177" alt="image" src="https://github.com/user-attachments/assets/4a75aa06-16d2-4a4e-ac21-1373ee74e84c" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
