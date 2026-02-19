@@ -66,6 +66,8 @@ The Total Profit by Region Chart across five regions.
 2. Northeast, Southeast, and South shows moderate profit levels with profits that follow a similar pattern. 
 3. Midwest shows the lowest profit.
 
+![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/fc1dfafaa2bea96e694bf4a07f19e40d7db515d8/proretailer.png)
+
 
 
 
