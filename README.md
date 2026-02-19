@@ -1,4 +1,4 @@
-# A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
 # Dataset used
@@ -28,6 +28,23 @@ The Adidas dataset was gotten from Kaggle.com. The dataset contains 9648 rows an
 	Total Cost = Cost per Unit Column multiplied by Unit Sold Column 
 	Profit = Subtraction of Total Cost Column  from  Total Revenue Column
 So in total the dataset has 14 columns and 9648 rows.
+
+# ANALYTICAL QUESTIONS
+Below are the analytical questions:
+
+1. How do sales methods (Online, Outlet and In-Store) influence the profit?
+2. Which product category contributed most to Adidas’ profit?
+3. Which region generated the highest profit for Adidas?
+4. Which retailer contributed the most to the overall profit?
+5. What was the quarterly sales trend?
+
+
+
+
+
+
+
+
 
 
 
