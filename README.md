@@ -1,4 +1,4 @@
-A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+<img width="2627" height="790" alt="image" src="https://github.com/user-attachments/assets/aceef769-9498-4e2f-a761-226c6b3cc4da" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
@@ -77,6 +77,21 @@ The Total Profit by Retailer Chart reveals that;
 4. Kohl’s and Amazon contributed significantly less profit with Walmart being the lowest among the group.
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/53a264002676b9728e03226ebf80c3b34707067f/proquarter.png)
+
+# ANALYSIS
+
+The Quarterly chart shows profit performance across the four quarters:
+profit starts at around $9.7M in Q1.
+It increases steadily through Q2 with $11.9M in profit.
+It peaks in Q3 at approximately $14.1M, the highest point in the year.
+profit then declines in Q4 to  $11.5M.
+INSIGHTS
+Strong growth occurs from Q1 to Q3, indicating favorable business conditions, successful campaigns, or high customer demand.
+Q3 is the peak revenue quarter, suggesting seasonality or concentrated sales activity.
+The noticeable drop in Q4 may indicate reduced demand, lower sales activity or budget closures.
+
+
+
 
 
 
