@@ -1,4 +1,4 @@
-A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+<img width="7330" height="256" alt="image" src="https://github.com/user-attachments/assets/c6c3a65f-861f-4131-8d7a-f857f48d50d8" /><img width="1321" height="177" alt="image" src="https://github.com/user-attachments/assets/4a75aa06-16d2-4a4e-ac21-1373ee74e84c" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
@@ -92,6 +92,42 @@ INSIGHTS
 Strong growth occurs from Q1 to Q3, indicating favorable business conditions, successful campaigns, or high customer demand.
 Q3 is the peak revenue quarter, suggesting seasonality or concentrated sales activity.
 The noticeable drop in Q4 may indicate reduced demand, lower sales activity or budget closures.
+
+# RECOMMANDATIONS
+
+A1. Adidas should continue investing in online sales channels through improved user experience, digital marketing, and fast delivery options.
+2. Outlet performance is strong and should be maintained.
+3. To boost in-store sales, Adidas can introduce targeted promotions, in-store experiences, and product exclusives to attract more physical shoppers.
+
+B1. Adidas should continue investing in Men’s Footwear, particularly street and athletic segments, as they show strong profit results.2. For weaker categories like Women’s Athletic Footwear, Adidas should evaluate marketing strategy, and inventory levels to identify improvement opportunities.3. Increasing targeted campaigns for underperforming women’s categories may help balance revenue across product lines.
+
+C1. Focus on what works in the West by examining pricing, product mix, and operational strategies that are driving its strong performance, and replicate these across other regions.
+2. Investigate Midwest performance ; Conduct  a market review to identify whether the issue is low demand, poor distribution, or competitive pressure, and design targeted interventions.
+
+
+D1. Invest more in  top retailers (west gear, foot locker, sports direct)
+2.  Improve visibility and promotions on underperforming platforms
+ 
+E1.  Investigate Q4 decline: analyze sales channels, customer activity, and market conditions to identify causes and prevent similar drops in future cycles.
+ 2.  Leverage Q3 success: identify the strategies that drove the Q3 peak (promotions, product launches, seasonal demand) and consider extending or replicating them in Q4.
+ 3.  Strengthen Q1 performance by launching early-year promotions or pipeline-building strategies to avoid a slow start.
+ 
+# CONCLUSION
+
+The sales analysis shows that Adidas’ strongest performance comes from a few key areas. New York led as the top revenue-generating states, while California Florida, Texas, and South Carolina follow as part of the top five. Sales channels also show a strong shift toward digital, with online sales contributing the highest profit, followed by outlet and in-store sales.In terms of products, Men’s Street Footwear stands out as the best-performing category, with men’s athletic footwear and women’s apparel also driving significant  profit. Meanwhile, women’s athletic footwear and some apparel lines generate comparatively lower  profit.
+The West region performs outstandingly in profit, while the Midwest lags behind. Profit increases steadily from Q1 and peaks in Q3 before dropping in Q4. Overall, performance shows strong mid-year momentum but weak end-year results, suggesting seasonal patterns and opportunities to improve consistency across regions and quarters.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
