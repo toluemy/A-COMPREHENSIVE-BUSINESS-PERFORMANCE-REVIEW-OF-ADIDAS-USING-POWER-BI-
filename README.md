@@ -76,6 +76,8 @@ The Total Profit by Retailer Chart reveals that;
 3. There is a sharp drop in profit after Sports Direct.
 4. Kohl’s and Amazon contributed significantly less profit with Walmart being the lowest among the group.
 
+![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/53a264002676b9728e03226ebf80c3b34707067f/proquarter.png)
+
 
 
 
