@@ -39,7 +39,7 @@ Below are the analytical questions:
 4. Which retailer contributed the most to the overall profit?
 5. What was the quarterly sales trend?
 
-
+![image Alt](image_url).Replace
 
 
 
