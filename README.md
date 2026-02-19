@@ -1,4 +1,4 @@
-A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+<img width="503" height="158" alt="image" src="https://github.com/user-attachments/assets/248f42b0-8f55-4680-aee6-6dca62c10f26" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
@@ -67,6 +67,16 @@ The Total Profit by Region Chart across five regions.
 3. Midwest shows the lowest profit.
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/fc1dfafaa2bea96e694bf4a07f19e40d7db515d8/proretailer.png)
+
+# ANALYSIS
+
+The Total Profit by Retailer Chart reveals that;
+1.  West Gear is the top-performing retailer that generated the highest profit by a clear margin.
+2. Foot Locker and Sports Direct follow closely forming a strong top-three profit group.
+3. There is a sharp drop in profit after Sports Direct.
+4. Kohl’s and Amazon contributed significantly less profit with Walmart being the lowest among the group.
+
+
 
 
 
