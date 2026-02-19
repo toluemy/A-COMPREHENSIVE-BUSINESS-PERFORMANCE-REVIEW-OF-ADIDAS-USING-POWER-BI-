@@ -1,4 +1,4 @@
-A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+<img width="503" height="158" alt="image" src="https://github.com/user-attachments/assets/3b2dda88-9c44-4067-85b5-7eaccd870061" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
@@ -59,6 +59,16 @@ INSIGHT
 Men’s Street Footwear is the strongest-performing category, indicating high demand for men’s shoes.Women’s product categories show mixed performance: women’s apparel performs strongly, while women’s athletic footwear underperform
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/b4a5606bbb63e264e33d54b5eb0e5760328b0972/proregion.png)
+
+# ANALYSIS
+The Total Profit by Region Chart across five regions.
+1. West Region is the strongest performer, it produces the most profit, suggesting strong market demand.
+2. Northeast, Southeast, and South shows moderate profit levels with profits that follow a similar pattern. 
+3. Midwest shows the lowest profit.
+
+
+
+
 
 
 
