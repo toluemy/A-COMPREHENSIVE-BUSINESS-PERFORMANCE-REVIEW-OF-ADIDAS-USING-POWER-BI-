@@ -1,4 +1,4 @@
-A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
+<img width="3758" height="414" alt="image" src="https://github.com/user-attachments/assets/1f72a2c4-d51a-4a05-be24-516daed5971a" />A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-
 
  In this analysis, we worked with Adidas sales dataset to understand how the brand is performing across different regions, retailers, products and time periods. The goal was to go beyond just number and uncover the meaningful patterns in customer buying behavior, product demand and overall sales performance.
 
@@ -41,15 +41,21 @@ Below are the analytical questions:
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/ba0e9ca726ad28f971799dd8c7267be1c89b2bbd/sales%20method.png)
 
-# ANALYSIS
+## ANALYSIS
 
-The Total Profit by Sales Method chart reveals that the Online sales generated the highest profit ($19.55M) followed by Outlet sales ($14.91M), and In-store sales ($12.76M).This indicates that Adidas performs strongly across all channels, but online is clearly the leading sales method.
+The Total Profit by Sales Method chart reveals that the Online sales generated the highest profit ($19.55M) followed by Outlet sales ($14.91M), and In-store sales ($12.76M).This indicates that Adidas performs strongly across all channels, but online is clearly the leading sales method.
 
 INSIGHTS: Online sales being the top contributor suggests:
 Strong digital presence
 More customers prefer online shopping
 
 ![image Alt](https://github.com/toluemy/A-COMPREHENSIVE-BUSINESS-PERFORMANCE-REVIEW-OF-ADIDAS-USING-POWER-BI-/blob/b98a655d716402bfd930365b808d83aefccfd1d9/profitproduct.png)
+
+## ANALYSIS
+
+The Total Profit by Product chart shows that Men’s Street Footwear generates the highest profit among all products, followed closely by Women’s Apparel and Men’s Athletic Footwear.On the lower end, Women’s Athletic Footwear and Men’s Apparel generate the least profit in comparison to the top products.
+INSIGHTS
+ Men’s Street Footwear is the strongest-performing category, indicating high demand for men’s shoes.Women’s product categories show mixed performance: women’s apparel performs strongly, while women’s athletic footwear underperform
 
 
 
