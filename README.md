@@ -99,14 +99,18 @@ A1. Adidas should continue investing in online sales channels through improved u
 2. Outlet performance is strong and should be maintained.
 3. To boost in-store sales, Adidas can introduce targeted promotions, in-store experiences, and product exclusives to attract more physical shoppers.
 
-B1. Adidas should continue investing in Men’s Footwear, particularly street and athletic segments, as they show strong profit results.2. For weaker categories like Women’s Athletic Footwear, Adidas should evaluate marketing strategy, and inventory levels to identify improvement opportunities.3. Increasing targeted campaigns for underperforming women’s categories may help balance revenue across product lines.
+B1. Adidas should continue investing in Men’s Footwear, particularly street and athletic segments, as they show strong profit results.
+ 2. For weaker categories like Women’s Athletic Footwear, Adidas should evaluate marketing strategy, and inventory levels to identify improvement opportunities.
+ 3. Increasing targeted campaigns for underperforming women’s categories may help balance revenue across product lines.
 
 C1. Focus on what works in the West by examining pricing, product mix, and operational strategies that are driving its strong performance, and replicate these across other regions.
-2. Investigate Midwest performance ; Conduct  a market review to identify whether the issue is low demand, poor distribution, or competitive pressure, and design targeted interventions.
+2. Investigate Midwest performance ; 
+   Conduct  a market review to identify whether the issue is low demand, poor distribution, or competitive pressure, and design targeted interventions.
 
 
 D1. Invest more in  top retailers (west gear, foot locker, sports direct)
 2.  Improve visibility and promotions on underperforming platforms
+
  
 E1.  Investigate Q4 decline: analyze sales channels, customer activity, and market conditions to identify causes and prevent similar drops in future cycles.
  2.  Leverage Q3 success: identify the strategies that drove the Q3 peak (promotions, product launches, seasonal demand) and consider extending or replicating them in Q4.
