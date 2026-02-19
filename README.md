@@ -113,12 +113,15 @@ D1. Invest more in  top retailers (west gear, foot locker, sports direct)
 
  
 E1.  Investigate Q4 decline: analyze sales channels, customer activity, and market conditions to identify causes and prevent similar drops in future cycles.
+
  2.  Leverage Q3 success: identify the strategies that drove the Q3 peak (promotions, product launches, seasonal demand) and consider extending or replicating them in Q4.
+ 
  3.  Strengthen Q1 performance by launching early-year promotions or pipeline-building strategies to avoid a slow start.
  
 # CONCLUSION
 
-The sales analysis shows that Adidas’ strongest performance comes from a few key areas. New York led as the top revenue-generating states, while California Florida, Texas, and South Carolina follow as part of the top five. Sales channels also show a strong shift toward digital, with online sales contributing the highest profit, followed by outlet and in-store sales.In terms of products, Men’s Street Footwear stands out as the best-performing category, with men’s athletic footwear and women’s apparel also driving significant  profit. Meanwhile, women’s athletic footwear and some apparel lines generate comparatively lower  profit.
+The sales analysis shows that Adidas’ strongest performance comes from a few key areas. New York led as the top revenue-generating states, while California Florida, Texas, and South Carolina follow as part of the top five. Sales channels also show a strong shift toward digital, with online sales contributing the highest profit, followed by outlet and in-store sales.
+In terms of products, Men’s Street Footwear stands out as the best-performing category, with men’s athletic footwear and women’s apparel also driving significant  profit. Meanwhile, women’s athletic footwear and some apparel lines generate comparatively lower  profit.
 The West region performs outstandingly in profit, while the Midwest lags behind. Profit increases steadily from Q1 and peaks in Q3 before dropping in Q4. Overall, performance shows strong mid-year momentum but weak end-year results, suggesting seasonal patterns and opportunities to improve consistency across regions and quarters.
 
 
